@@ -1,2 +1,3 @@
-# latex-template
-Empty Latex file for stuff and things
+# Latex template
+
+Latex files for stuff and things
